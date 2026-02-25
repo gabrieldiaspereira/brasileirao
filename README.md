@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">⚽ Brasileirão A e B ⚽</h1>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gabrieldiaspereira/brasileirao&count_bg=%234dc61f&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visualizacoes&edge_flat=false"/></a>
-<a href="#"><img title="Versão" src="https://img.shields.io/github/package-json/v/gabrieldiaspereira/brasileirao?label=vers%C3%A3o&color=#79C83D"/></a>
 <a href="https://github.com/gabrieldiaspereira/brasileirao/stargazers/"><img title="Estrelas" src="https://img.shields.io/github/stars/gabrieldiaspereira/brasileirao?label=estrelas&style=flat&color=#79C83D"></a>
 <a href="https://github.com/gabrieldiaspereira/brasileirao/watchers"><img title="Acompanhando" src="https://img.shields.io/github/watchers/gabrieldiaspereira/brasileirao?label=acompanhando&style=flat&color=#79C83D"></a>
 <a href="https://github.com/gabrieldiaspereira"><img title="Autor" src="https://img.shields.io/badge/autor-gabrieldiaspereira-blue.svg?logo=github&color=#79C83D"></a>
