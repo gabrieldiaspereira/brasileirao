@@ -67,6 +67,10 @@ export async function getLeagueBData(rounds = true){
     }
 }
 
+// Exports com nomes em português para corresponder à documentação em pt-br.
+export const obterDadosBrasileiraoA = getLeagueAData
+export const obterDadosBrasileiraoB = getLeagueBData
+
 async function getPage(url: string){
     try{
         const userAgent = new UserAgent()

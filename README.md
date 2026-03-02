@@ -9,6 +9,7 @@
 </p>
 <h3 align="center"> 🔎 Consulta de dados de tabela e de todas as rodadas.</h3>
 
+[Read in English](README_EN.md)
 
 ## Instalação :
 npm :
