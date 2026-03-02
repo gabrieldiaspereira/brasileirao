@@ -6,10 +6,29 @@
 <a href="https://github.com/gabrieldiaspereira/brasileirao/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gabrieldiaspereira/brasileirao?label=stars&style=flat&color=#79C83D"></a>
 <a href="https://github.com/gabrieldiaspereira/brasileirao/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/gabrieldiaspereira/brasileirao?label=watching&style=flat&color=#79C83D"></a>
 <a href="https://github.com/gabrieldiaspereira"><img title="Author" src="https://img.shields.io/badge/author-gabrieldiaspereira-blue.svg?logo=github&color=#79C83D"></a>
+<a href="https://www.npmjs.com/package/@gabrieldiaspereira/brasileirao">
+  <img src="https://img.shields.io/npm/v/@gabrieldiaspereira/brasileirao?color=green" />
+</a>
+<a href="https://www.npmjs.com/package/@gabrieldiaspereira/brasileirao">
+  <img src="https://img.shields.io/npm/dm/@gabrieldiaspereira/brasileirao" />
+</a>
 </p>
 <h3 align="center"> 🔎 Query table data and all rounds of Brazilian Championship Series A and B.</h3>
 
+<p align="center">
+Node.js library to fetch updated data from Brazilian Championship Series A and B.
+</p>
+
 [Leia em Português](README.md)
+
+## ✨ Features
+
+- ✅ Series A (Brasileirão Série A)
+- ✅ Series B (Brasileirão Série B)
+- ✅ Complete rounds data
+- ✅ TypeScript support
+- ✅ Functions in Portuguese and English
+- ✅ ESM and CommonJS
 
 ## Installation:
 npm:
@@ -32,6 +51,9 @@ const leagueB = await getLeagueBData() // Pass false as parameter if you don't w
 ```
 
 ## Response Example
+
+⚠️ **Note:** Response fields remain in Portuguese to preserve data consistency with the original Brazilian Championship data.
+
 On a successful response with rounds:
 ```js
 {
